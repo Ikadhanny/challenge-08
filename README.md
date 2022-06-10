@@ -8,7 +8,7 @@ Tugas kalian disini adalah:
 
 Good luck!
 
-Amos Augusto Silangit - FSW6
+Ikadhanny Yudyan Pratama - FSW6
 
 1. List Car (GET) = https://challenge-8-heroku.herokuapp.com//v1/cars
 2. Get Car (GET) = https://challenge-8-heroku.herokuapp.com//v1/cars/:id
